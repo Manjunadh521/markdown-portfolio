@@ -1,3 +1,3 @@
-Shawarma
-IceCream
-Biryani
+-- Shawarma
+- IceCream
+- Biryani
